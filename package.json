@@ -1,7 +1,7 @@
 {
   "name": "devdactic-mediapopup",
   "version": "1.0.0",
-  "description": "devdactic-mediapopup: An Ionic project",
+  "description": "devdactic-mediapopup: An Ionic project app",
   "dependencies": {
     "gulp": "^3.5.6",
     "gulp-sass": "^0.7.1",
